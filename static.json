@@ -1,3 +1,9 @@
 {
  "encoding":"UTF-8"
+ "headers": {
+   "/*": {
+     "X-Autor": "Gvoz"
+       "Access-Control-Allow-Origin": "*"
+}
+}
 }
