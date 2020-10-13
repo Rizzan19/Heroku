@@ -1,8 +1,9 @@
 {
- "encoding":"UTF-8"
+ "encoding":"UTF-8",
  "headers": {
    "/*": {
      "X-Autor": "Goss"
+        "Access-Control-Allow-Origin": "*"
 }
 }
 }
