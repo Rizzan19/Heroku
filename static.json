@@ -2,7 +2,7 @@
  "encoding":"UTF-8",
  "headers": {
    "/*": {
-     "X-Autor": "Goss",
+     "X-Autor": "Gvoz",
         "Access-Control-Allow-Origin": "*"
 }
 }
